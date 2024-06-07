@@ -4,9 +4,8 @@ import Navbar from './Navbar'
 const ViewAll = () => {
   return (
     <div>
-        <br></br><br></br>
         <Navbar/>
-        <br></br><br></br>
+        <br></br>
         <h4 align="center"><u>Student Details</u></h4><br></br><br></br>
         <div className="container">
             <div className="row">
@@ -35,7 +34,7 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Bella</h5><br></br>
+                            <h5 align="center">Bazil</h5><br></br>
                             <h6 align="center">Reg No:100103<br></br>DOB : 15.07.2002</h6>
                             </div>
                             </div>
@@ -44,8 +43,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Conrad</h5><br></br>
+                            <h6 align="center">Reg No:100104<br></br>DOB : 01.04.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -53,8 +52,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">David</h5><br></br>
+                            <h6 align="center">Reg No:100105<br></br>DOB : 14.10.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -62,8 +61,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Kevin</h5><br></br>
+                            <h6 align="center">Reg No:100106<br></br>DOB : 09.05.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -71,8 +70,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Liyan</h5><br></br>
+                            <h6 align="center">Reg No:100107<br></br>DOB : 05.12.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -80,8 +79,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Melvin</h5><br></br>
+                            <h6 align="center">Reg No:100108<br></br>DOB : 23.04.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -89,8 +88,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Nick</h5><br></br>
+                            <h6 align="center">Reg No:100109<br></br>DOB : 30.08.2002</h6>
                             </div>
                             </div>
                         </div>
@@ -98,8 +97,8 @@ const ViewAll = () => {
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg" class="card-img-top" alt="..."></img>
                             <div class="card-body">
-                            <h5 align="center">Adam</h5><br></br>
-                            <h6 align="center">Reg No:100101<br></br>DOB : 14.07.2002</h6>
+                            <h5 align="center">Xander</h5><br></br>
+                            <h6 align="center">Reg No:100110<br></br>DOB : 12.11.2002</h6>
                             </div>
                             </div>
                         </div>

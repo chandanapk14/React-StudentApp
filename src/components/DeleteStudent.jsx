@@ -4,9 +4,8 @@ import Navbar from './Navbar'
 const DeleteStudent = () => {
   return (
     <div>
-        <br></br><br></br>
         <Navbar/>
-        <br></br><br></br><br></br>
+        <br></br>
         <center><h5><u>DELETE STUDENT DETAILS</u></h5></center>
         <div className="container">
             <div className="row">
@@ -17,7 +16,7 @@ const DeleteStudent = () => {
                             <input type="text" className="form-control" />
                         </div></center>
                         <br></br>
-                        <center><div className="col col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                        <center><div className="col col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6"><br></br>
                             <button className="btn btn-danger">DELETE</button>
                         </div></center>
                     </div>
